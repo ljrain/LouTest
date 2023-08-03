@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_ljr_feedback" />
+  <EntityRelationship Name="business_unit_ljr_partner" />
+  <EntityRelationship Name="ljr_ljr_partner_PrimaryContact_contact" />
+  <EntityRelationship Name="lk_ljr_feedback_createdby" />
+  <EntityRelationship Name="lk_ljr_feedback_modifiedby" />
+  <EntityRelationship Name="lk_ljr_partner_createdby" />
+  <EntityRelationship Name="lk_ljr_partner_modifiedby" />
+  <EntityRelationship Name="owner_ljr_feedback" />
+  <EntityRelationship Name="owner_ljr_partner" />
+  <EntityRelationship Name="team_ljr_feedback" />
+  <EntityRelationship Name="team_ljr_partner" />
+  <EntityRelationship Name="user_ljr_feedback" />
+  <EntityRelationship Name="user_ljr_partner" />
+</EntityRelationships>
